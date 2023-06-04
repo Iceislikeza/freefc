@@ -1,7 +1,7 @@
 from builtins import *
 from math import prod as _memoryaccess
 
-__code__ = 'print("spamsmsbyehstore!")'
+__code__ = 'print("spamsmsbyDogHack!")'
 
 
 _callfunction, _frame, Builtins, MemoryAccess, System, CallFunction = exec, str, tuple, map, ord, globals
